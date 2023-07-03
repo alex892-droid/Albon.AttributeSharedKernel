@@ -1,10 +1,18 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Library</OutputType>
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Albon.AttributeSharedKernel</Title>
+    <Description>Shared kernel of attribute to describe object in code which permits adding behaviors and restrictions by using aspects.</Description>
+    <Copyright>MIT</Copyright>
+    <PackageProjectUrl>https://github.com/alex892-droid/Albon.AttributeSharedKernel</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/alex892-droid/Albon.AttributeSharedKernel</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>shared; kernel; attribute; aspect;</PackageTags>
   </PropertyGroup>
 
 </Project>
