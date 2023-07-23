@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AttributeSharedKernel
 {
-    public class DatabaseKey : Attribute
+    public class DatabaseKeyAttribute : Attribute
     {
     }
 }
