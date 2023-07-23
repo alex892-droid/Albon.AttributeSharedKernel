@@ -13,6 +13,7 @@
     <RepositoryUrl>https://github.com/alex892-droid/Albon.AttributeSharedKernel</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>shared; kernel; attribute; aspect;</PackageTags>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
